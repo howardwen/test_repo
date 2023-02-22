@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import sklearn
-import PIL
 
 class Example:
     def __init__(self):
