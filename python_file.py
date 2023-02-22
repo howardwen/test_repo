@@ -23,5 +23,5 @@ class Example:
     def another3NewFunc(self):
         print("This is a third new function")
         
-    def anotherAnotherNewFunc(self):
+    def anotherFourthNewFunc(self):
         print("This is another new function")        
