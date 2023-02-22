@@ -20,7 +20,7 @@ class Example:
     def anotherNewFunc(self):
         print("This is another new function")
 
-    def anotherThirdNewFunc(self):
+    def another3NewFunc(self):
         print("This is a third new function")
         
     def anotherAnotherNewFunc(self):
