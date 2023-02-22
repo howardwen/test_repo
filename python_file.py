@@ -11,7 +11,7 @@ class Example:
     def __call__(self):
         print("Instance is called via special method")
 
-    def localFunction(self):
+    def local2Function(self):
         print("This is a local function")
 
     def newfunc(self):
