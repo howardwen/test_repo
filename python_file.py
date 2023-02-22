@@ -19,5 +19,8 @@ class Example:
     def anotherNewFunc(self):
         print("This is another new function")
 
+    def anotherThirdNewFunc(self):
+        print("This is a third new function")
+        
     def anotherAnotherNewFunc(self):
-        print("This is another new function")
+        print("This is another new function")        
