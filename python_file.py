@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import sklearn
 
 class Example:
     def __init__(self):
